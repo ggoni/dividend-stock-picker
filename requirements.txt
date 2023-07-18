@@ -164,7 +164,7 @@ ply==3.11
 prometheus-client==0.11.0
 prompt-toolkit==3.0.20
 proto-plus==1.19.0
-protobuf==3.17.3
+protobuf==4.23.4
 psutil==5.8.0
 ptyprocess==0.7.0
 pyarrow==6.0.0
@@ -233,7 +233,7 @@ soupsieve==2.2.1
 SpeechRecognition==3.8.1
 SQLAlchemy==2.0.16
 starlette==0.27.0
-streamlit==1.11.0
+streamlit==1.24.1
 symengine==0.7.2
 sympy==1.8
 tabulate==0.9.0
